@@ -16,5 +16,4 @@ Understanding Correlation In general terms, correlation reflects how two variabl
 1. Direct Influence: Sometimes, the meaning or usage of a word evolves due to the influence of another word. For instance, "smartphone" and "app" might show causal links as the proliferation of smartphones directly led to the development and widespread use of apps.
 2. Indirect Factors: There could be external influences, such as cultural, social, or technological trends, which impact the relationship between words. These factors act as third variables that shape word usage without a direct causal link between the words themselves.
 
-Unlike correlation, causality requires deeper analysis through linguistic, historical, or sociological studies to uncover underlying mechanisms. For example, causality studies might explore whether technological advancements caused the emergence of new vocabulary.
-
+Unlike correlation, causality requires deeper analysis through linguistic, historical, or sociological studies to uncover underlying mechanisms.
