@@ -1,4 +1,4 @@
-# Words Correlations by Umutesa Munyurangabo
+# Words Correlations ** by Umutesa Munyurangabo **
 This project delves into exploring the relationship, or correlation, between two words to assess their similarity or association. For example, the connection between "dog" and "cat" is stronger due to their relatedness as animals, compared to the weaker correlation between "dog" and "chair," as the latter pair belongs to entirely different categories.
 Understanding Correlation In general terms, correlation reflects how two variables are related. It measures both the strength and the direction of their relationship. This concept is invaluable for making well-informed predictions, spotting trends, and uncovering hidden patterns within datasets. However, it’s important to emphasize that correlation does not imply causation. Even if two variables display a strong correlation, it doesn’t mean one directly causes changes in the other. Other factors, such as a third unseen variable, or even pure coincidence, could explain the connection.
 
